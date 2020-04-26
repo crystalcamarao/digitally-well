@@ -44,6 +44,9 @@ minima:
     facebook: digitallywell
     instagram: digitally_well
 
-google_analytics: UA-NNNNNNNN-N
+google_analytics: UA-140161188-4
 
 show_excerpts: true
+
+ disqus:
+    shortname: digitally_well

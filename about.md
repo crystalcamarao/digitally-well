@@ -4,15 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Technology is a tool. Unfortunately, we don’t always utilize it properly. With the way the internet 2.0 is designed, it’s easy to waste your precious time mindlessly scrolling and tapping. Our aim is to share evidence-based strategies to help you improve your relationship with tech, and stay up to date on how the evolution of technology is shaping society. We want to contribute to a paradigm shift in how people use technology, focusing on awareness, intention, and true social connectivity. 

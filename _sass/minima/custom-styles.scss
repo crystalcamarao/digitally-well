@@ -93,3 +93,29 @@ display: flex;
     align-self: flex-start;
     font-family: 'Open Sans', sans-serif;
 }
+.substack-form
+{
+    align: center;
+    text-align: center;
+}
+.blog-container
+{
+    background: #EAEAEA;
+}
+.blog-home
+{
+    display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.blog-column {
+  flex: 1;
+}
+.site-footer {
+    padding-right: $spacing-unit;
+     padding-left: $spacing-unit;
+}
+.footer-col {
+  
+}
+
