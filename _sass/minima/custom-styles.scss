@@ -1,0 +1,95 @@
+// Placeholder to allow defining custom styles that override everything else.
+// (Use `_sass/minima/custom-variables.scss` to override variable defaults)
+h2, h3
+{
+    font-family: 'Open Sans', sans-serif;
+}
+h1
+{
+    font-size: 3.375em;
+    line-height: 1.1;
+}
+h2
+{
+    font-size: 2.25em;
+    line-height: 1.1;
+}
+h3
+{
+    font-size: 1.5em;
+    line-height: 1.1;
+}
+body
+{
+    font-size: 1em;
+}
+.site-header {
+  border-top: 0px;
+  border-bottom: 0px;
+    background: #FFF952;
+    padding-right: $spacing-unit;
+     padding-left: $spacing-unit;
+}
+.page-content {
+    padding: 0;
+}
+.wrapper {
+  max-width: $content-width;
+  margin-right: 0;
+  margin-left: 0;
+  padding-right: 0;
+  padding-left: 0;
+  @extend %clearfix;
+
+  @media screen and (min-width: $on-large) {
+    max-width: $content-width;
+    padding-right: 0;
+    padding-left: 0;
+  }
+}
+.wrapper-inside
+{
+     max-width: calc(#{$content-width} - (#{$spacing-unit}));
+  margin-right: auto;
+  margin-left: auto;
+  padding: $spacing-unit;
+  @extend %clearfix;
+
+  @media screen and (min-width: $on-large) {
+    max-width: calc(#{$content-width} - (#{$spacing-unit} * 2));
+ padding: $spacing-unit;
+  }
+display: flex;
+}
+.hero-container
+{
+    background: #333333;
+}
+.main-home
+{
+    display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.main-home-left {
+  flex: 1;
+}
+
+.main-home-right {
+  flex: 1;
+}
+.white-heading
+{
+    color: white;
+}
+.primary
+{
+    color: #333333;
+        background: #white;
+    padding: $spacing-unit/2 $spacing-unit $spacing-unit/2 $spacing-unit;
+    border-radius: 50px;
+    text-transform: uppercase;
+    font-weight: bold;
+    align-self: flex-start;
+    font-family: 'Open Sans', sans-serif;
+}
