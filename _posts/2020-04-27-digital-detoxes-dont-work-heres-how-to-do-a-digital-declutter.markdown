@@ -33,21 +33,21 @@ Our fear keeps us scrolling. Be it fear of missing out, fear of being alone, or 
 
 Enter digital minimalism.
 
-How to Digital Declutter
+## How to Digital Declutter
 
-Figure out what tech is necessary for your existence
+1. Figure out what tech is necessary for your existence
 
 If you’re working online- continue. Keep the Zoom or Hangout apps on your phone for socializing. Keep email if you need it for work. I don’t feel I spend too much time texting so I kept my messages app.
 
-Plan New Activities
+2.Plan New Activities
 
 If you’re used to spending your evenings binge watching Netflix, plan on doing something to fill that void. Dig out your art supplies, find a book to read, anything you’ve always wanted to do but haven’t had the time before now.
 
-## Block Everything You Don’t Need
+3.Block Everything You Don’t Need
 
 For a computer, download the software Cold Turkey Blocker and block all time consuming sites. For phones, download the app Digital Detox and only whitelist the apps you need.
 
-Spend 30 days in this strange new place called real life.
+4.Spend 30 days in this strange new place called real life.
 
 Checking Instagram and zoning out on Youtube is a huge comfort thing for me. Being without that was anxiety provoking. I felt bored for the first time in years! Embrace the discomfort. This is an adjustment period.
 
