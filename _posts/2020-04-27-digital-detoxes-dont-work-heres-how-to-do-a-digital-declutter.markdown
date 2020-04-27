@@ -8,7 +8,7 @@ Field name:
 
 
 
-<center><img src="https://i.postimg.cc/W1DmjqkT/1111.jpg></center>
+<center><img src="https://postimg.cc/QF3KJtmy></center>
 
 
 Be honest. How much time do you spend mindlessly scrolling? Zoning out watching Youtube? Lurking social media? We all know by now that none of this is good for mental health. Studies on smartphone addiction have shown that increased time on social media [can lead to envy and FOMO.](https://www.sciencedirect.com/science/article/pii/S2352250X15002535) Not to mention the fact that you could be doing so much with the time you’re spending mindlessly surfing!
