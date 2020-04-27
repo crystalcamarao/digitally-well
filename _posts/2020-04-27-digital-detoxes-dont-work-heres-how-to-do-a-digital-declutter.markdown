@@ -40,21 +40,26 @@ Enter digital minimalism.
 
 If you’re working online- continue. Keep the Zoom or Hangout apps on your phone for socializing. Keep email if you need it for work. I don’t feel I spend too much time texting so I kept my messages app.
 
+
 **2.Plan New Activities**
 
 If you’re used to spending your evenings binge watching Netflix, plan on doing something to fill that void. Dig out your art supplies, find a book to read, anything you’ve always wanted to do but haven’t had the time before now.
+
 
 **3.Block Everything You Don’t Need**
 
 For a computer, download the software Cold Turkey Blocker and block all time consuming sites. For phones, download the app Digital Detox and only whitelist the apps you need.
 
+
 **4.Spend 30 days in this strange new place called real life.**
 
 Checking Instagram and zoning out on Youtube is a huge comfort thing for me. Being without that was anxiety provoking. I felt bored for the first time in years! Embrace the discomfort. This is an adjustment period.
 
+
 **5. Figure out your values**
 
 Once you’ve lived largely without the internet and apps, you can add back in the ones that align with your values. If you value staying in touch with family, it may make sense for you to keep facebook. However, look out for other ways to obtain that value that might work better. Keeping in touch is a good reason to keep Facebook sure, but monthly calls with family members might be a better way of keeping up.
+
 
 Starting this process now might come with additional challenges. Make sure you still have ample opportunities to chat with friends and make that essential. When you set up your blocks, make sure they’re not always on so you can tweak things if needed. Also, be gentle with yourself! You may slip up a few times and that’s okay.
 
