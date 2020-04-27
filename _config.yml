@@ -1,6 +1,6 @@
 ---
 title: Digitally Well
-timezone: UTC
+timezone: America/Guatemala
 collections:
   posts:
     title: Posts
@@ -11,8 +11,8 @@ collections:
 email: hello@getdigitallywell.com
 description: Stay on the cutting edge of how technology is shaping our lives and learn
   to stay focused in an increasingly distracted world.
-baseurl: ''
-url: ''
+baseurl: 
+url: 
 markdown: kramdown
 theme: minima
 plugins:
