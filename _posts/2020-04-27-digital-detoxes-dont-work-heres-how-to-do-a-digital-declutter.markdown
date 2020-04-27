@@ -52,7 +52,7 @@ For a computer, download the software Cold Turkey Blocker and block all time con
 
 Checking Instagram and zoning out on Youtube is a huge comfort thing for me. Being without that was anxiety provoking. I felt bored for the first time in years! Embrace the discomfort. This is an adjustment period.
 
-**5 Figure out your values
+**5. Figure out your values**
 
 Once you’ve lived largely without the internet and apps, you can add back in the ones that align with your values. If you value staying in touch with family, it may make sense for you to keep facebook. However, look out for other ways to obtain that value that might work better. Keeping in touch is a good reason to keep Facebook sure, but monthly calls with family members might be a better way of keeping up.
 
