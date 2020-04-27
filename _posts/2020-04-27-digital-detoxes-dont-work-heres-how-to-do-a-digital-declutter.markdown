@@ -6,7 +6,7 @@ tags:
 Field name: 
 ---
 
-![1111.jpg](/uploads/1111.jpg)
+
 
 <center><img src="https://i.postimg.cc/W1DmjqkT/1111.jpg></center>
 
