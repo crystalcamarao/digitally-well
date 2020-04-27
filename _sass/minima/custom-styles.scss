@@ -2,7 +2,7 @@
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
 h2, h3
 {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Crimson Text', sans-serif;
 }
 h1
 {
@@ -57,13 +57,17 @@ body
 
   @media screen and (min-width: $on-large) {
     max-width: calc(#{$content-width} - (#{$spacing-unit} * 2));
- padding: $spacing-unit;
+    padding: $spacing-unit;
   }
-display: flex;
 }
 .hero-container
 {
+    display: flex;
     background: #333333;
+}
+.about-container
+{
+    display: flex;
 }
 .main-home
 {
@@ -72,11 +76,18 @@ display: flex;
   justify-content: center;
 }
 .main-home-left {
-  flex: 1;
+  flex: 60%;
 }
 
 .main-home-right {
-  flex: 1;
+  flex: 40%;
+}
+.substack-home-left {
+  flex: 40%;
+}
+
+.substack-home-right {
+  flex: 60%;
 }
 .white-heading
 {
@@ -84,29 +95,37 @@ display: flex;
 }
 .primary
 {
-    color: #333333;
-        background: #white;
+    border: none;
+    color: white;
+        background: green;
     padding: $spacing-unit/2 $spacing-unit $spacing-unit/2 $spacing-unit;
     border-radius: 50px;
     text-transform: uppercase;
     font-weight: bold;
     align-self: flex-start;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Crimson Text', sans-serif;
+    font-size: inherit;
+}
+.harmony-container
+{
+    display: flex;
+        background: #EAEAEA;
+    padding-bottom: 0;
 }
 .substack-form
 {
     align: center;
     text-align: center;
-}
-.blog-container
-{
     background: #EAEAEA;
+    padding-bottom: $spacing-unit;
 }
 .blog-home
 {
     display: flex;
-  flex-direction: column;
+    flex-direction: row;
   justify-content: center;
+      flex-wrap: wrap;
+    align-items: center;
 }
 .blog-column {
   flex: 1;
@@ -114,8 +133,21 @@ display: flex;
 .site-footer {
     padding-right: $spacing-unit;
      padding-left: $spacing-unit;
+    background: #EAEAEA;
 }
-.footer-col {
-  
+@media screen and (max-width: 800px) {
+    h1 {
+        font-size: 2.25em;
+    }
+    h2
+    {
+        font-size: 1.5em
+    }
+  .hero-container, .harmony-container {
+    flex-direction: column;
+  }
+    .logo
+    {
+        width: 150px;
+    }
 }
-

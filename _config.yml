@@ -48,5 +48,5 @@ google_analytics: UA-140161188-4
 
 show_excerpts: true
 
- disqus:
-    shortname: digitally_well
+disqus:
+    shortname: digitally-well
