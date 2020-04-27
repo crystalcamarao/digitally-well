@@ -57,11 +57,13 @@ layout: default
         <div class="blog-column">
       <li>
         <span class="post-meta">{{ post.date | date: date_format }}</span>
+          
         <h3>
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
           </a>
         </h3>
+          {% if post.featured-image %}{% include post-featured-image.html image=post.featured-image alt=post.featured-image-alt %}{% endif %}
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
         {%- endif -%}
@@ -92,14 +94,15 @@ layout: default
        </div>    
     <div id="instafeed"></div>
     <span id="insertHere"></span>
-    
+    <script src="https://digitally-well-ig.herokuapp.com/token.js" defer></script>
+    <script src="/assets/js/instafeed.min.js" defer></script>
+
     <script> 
 (function(){
     //Basic use: Just include the script and then access the token as InstagramToken
     document.querySelector('#js-default').innerHTML = InstagramToken;
-  })();
-        
-    //document.getElementById('insertHere').innerHTML = InstagramToken;
+  })(); 
+    document.getElementById('insertHere').innerHTML = InstagramToken;
     
     var feed = new Instafeed({
       accessToken: InstagramToken
