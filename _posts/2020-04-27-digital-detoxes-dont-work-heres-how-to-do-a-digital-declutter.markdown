@@ -39,7 +39,7 @@ Enter digital minimalism.
 
 If you’re working online- continue. Keep the Zoom or Hangout apps on your phone for socializing. Keep email if you need it for work. I don’t feel I spend too much time texting so I kept my messages app.
 
-### Plan New Activities
+### 1.Plan New Activities
 
 If you’re used to spending your evenings binge watching Netflix, plan on doing something to fill that void. Dig out your art supplies, find a book to read, anything you’ve always wanted to do but haven’t had the time before now.
 
