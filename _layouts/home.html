@@ -13,9 +13,9 @@ layout: default
         <div class="main-home main-home-left">
    <h2 class="white-heading">How much time do you spend mindlessly scrolling?</h2>
         <h1 class="white-heading">Technology is a tool. Stop letting it take control.</h1>
-            <a href="#substack"><button class="primary">Get Digitally Well</button></a>
+            <a class="primary" href="#substack">Get Digitally Well</a>
   </div>
-  <div class="main-home main-home-right" align="left">
+  <div class="main-home main-home-right">
 <img src="/assets/img/selfie.png">
         </div> 
     </div>
@@ -36,26 +36,21 @@ layout: default
          <iframe src="https://digitallywell.substack.com/embed" width="100%" height="320" frameborder="0" scrolling="no"></iframe>
           <h3>Let me read it first ></h3></div>
     
-<div id="blog" class="wrapper-inside">
+<div id="blog" class="wrapper-inside blog-container">
            {% if site.paginate %}
     {% assign posts = paginator.posts %}
   {% else %}
     {% assign posts = site.posts %}
   {% endif %}
 
-
   {%- if posts.size > 0 -%}
-           
     {%- if page.list_title -%}
       <h2 class="post-list-heading">{{ page.list_title }}</h2>
     {%- endif -%}
-    <div class="blog-home">
-    <ul class="post-list">
-
+    <div class="blog-home"> 
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         {% for post in site.posts limit:3 %}
         <div class="blog-column">
-      <li>
         <span class="post-meta">{{ post.date | date: date_format }}</span>
           
         <h3>
@@ -63,18 +58,14 @@ layout: default
             {{ post.title | escape }}
           </a>
         </h3>
-          <!--
           {% if post.featured-image %}{% include post-featured-image.html image=post.featured-image alt=post.featured-image-alt %}{% endif %}
--->
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
         {%- endif -%}
-
-      </li>
-        </div>
+        </div>    
       {%- endfor -%}
-            </ul>
-         </div>
+</div>
+    </div>
     {% if site.paginate %}
       <div class="pager">
         <ul class="pagination">
@@ -94,7 +85,7 @@ layout: default
     {%- endif %}
 
   {%- endif -%}
-       </div>    
+           
     <div id="instafeed"></div>
     <span id="insertHere"></span>
     <script src="https://digitally-well-ig.herokuapp.com/token.js" defer></script>

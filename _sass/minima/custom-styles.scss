@@ -74,6 +74,7 @@ body
     display: flex;
   flex-direction: column;
   justify-content: center;
+    align-content: space-around;
 }
 .main-home-left {
   flex: 60%;
@@ -97,7 +98,7 @@ body
 {
     border: none;
     color: white;
-        background: green;
+    background: green;
     padding: $spacing-unit/2 $spacing-unit $spacing-unit/2 $spacing-unit;
     border-radius: 50px;
     text-transform: uppercase;
@@ -105,6 +106,10 @@ body
     align-self: flex-start;
     font-family: 'Crimson Text', sans-serif;
     font-size: inherit;
+}
+.primary:any-link
+{
+    color: white;
 }
 .harmony-container
 {
@@ -119,15 +124,21 @@ body
     background: #EAEAEA;
     padding-bottom: $spacing-unit;
 }
+.blog-container
+{
+    display: flex;
+}
 .blog-home
 {
     display: flex;
     flex-direction: row;
-  justify-content: center;
-      flex-wrap: wrap;
-    align-items: center;
+   justify-content: center;
+   align-items: center;
 }
+
 .blog-column {
+padding-right: $spacing-unit;
+     padding-left: $spacing-unit;
   flex: 1;
 }
 .site-footer {
@@ -139,6 +150,7 @@ body
 {
     padding-top: $spacing-unit;
     padding-bottom: $spacing-unit;
+    max-height: 400px;
 }
 @media screen and (max-width: 800px) {
     h1 {
