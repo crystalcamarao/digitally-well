@@ -85,25 +85,4 @@ layout: default
     {%- endif %}
 
   {%- endif -%}
-           
-    <div id="instafeed"></div>
-    <span id="insertHere"></span>
-    <script src="https://digitally-well-ig.herokuapp.com/token.js" defer></script>
-    <script src="/assets/js/instafeed.min.js" defer></script>
-
-    <script> 
-(function(){
-    //Basic use: Just include the script and then access the token as InstagramToken
-    document.querySelector('#js-default').innerHTML = InstagramToken;
-  })(); 
-    document.getElementById('insertHere').innerHTML = InstagramToken;
-    
-    var feed = new Instafeed({
-      accessToken: InstagramToken
-        debug: true
-    });
-        
-    feed.run();
-        
-        </script>
         </div> 
