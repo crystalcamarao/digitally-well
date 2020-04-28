@@ -10,10 +10,10 @@ Technology is a tool. Unfortunately, we don’t always utilize it properly. With
 
 <h2>TEAM</h2>
 <div class="about-container">
-        <div class="main-home main-home-left">
-   <h3>Madi Thomas</h3>
-  </div>
-<div class="main-home main-home-left">
-  <h3>Crystal Camarao</h3>
-        </div> 
+    {% for author in site.authors %}
+    <div class="main-home main-home-left"><h3> <a href="{{ author.url }}">{{ author.title }}</a></h3</div> 
+  {% endfor %}
+     
     </div>
+    
+  
