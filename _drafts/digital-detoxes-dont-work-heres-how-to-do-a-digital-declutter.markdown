@@ -1,8 +1,10 @@
 ---
 title: Digital Detoxes Don't Work. Here's How to do a Digital Declutter.
 date: 2020-05-05 08:54:00 -06:00
+categories:
+- digital health
 tags:
-- Digital Detoxes Don't Work. Here's How to do a Digital Declutter.
+- digital detox
 featured-image: "/uploads/1111.jpg"
 ---
 
