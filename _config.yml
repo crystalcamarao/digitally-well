@@ -18,8 +18,8 @@ defaults:
   values:
     permalink: "/blog/authors/:title/"
     layout: author
-    twitter: 
     picture: 
+    link:
 email: hello@getdigitallywell.com
 description: Stay on the cutting edge of how technology is shaping our lives and learn
   to stay focused in an increasingly distracted world.
