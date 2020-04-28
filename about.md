@@ -3,6 +3,7 @@ title: About
 permalink: "/about/"
 layout: page
 ---
+
 <<<<<<< HEAD
 
 <img src="/assets/img/laying.png" height="400px">
