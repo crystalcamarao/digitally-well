@@ -20,7 +20,7 @@ defaults:
     layout: author
     picture: 
     link: 
-    defaults:
+    defaults: 
 - scope:
     path: ''
     type: posts
