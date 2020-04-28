@@ -1,5 +1,5 @@
 ---
 title: Crystal Camarao
+date: 2020-04-27 20:50:00 -06:00
 ---
 
-Crystal started Digitally Well out of a love for tech--probably too much. She wants to help people like herself to have a healthy relationship with tech.
