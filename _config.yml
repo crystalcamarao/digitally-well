@@ -14,15 +14,6 @@ collections:
 defaults:
 - scope:
     path: ''
-    type: authors
-  values:
-    permalink: "/blog/authors/:title/"
-    layout: author
-    picture: 
-    link: 
-defaults: 
-- scope:
-    path: ''
     type: posts
   values:
     layout: post
