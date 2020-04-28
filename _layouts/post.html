@@ -33,14 +33,13 @@ comments: true
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
   </div>
-<!--
-    <div>
+    
     {% assign author = site.authors | where: 'title', page.author | first %}
 {% if author %}
-  <a href="{{ author.url }}">{{ author.title }}</a>
+    <div class="author-post">
+  {%- include author-details.html -%}
+        </div>
 {% endif %}
-    </div>
--->
     
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}
