@@ -1,5 +1,7 @@
 ---
 title: Crystal Camarao
+picture: "/uploads/11845192_10153385645253280_3692399068844176673_o.jpg"
+link: https://crystal.ph
 layout: author
 ---
 
