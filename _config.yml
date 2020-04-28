@@ -14,22 +14,12 @@ collections:
 defaults:
 - scope:
     path: ''
-    type: posts
-  values:
-    permalink: "/blog/:title/"
-    layout: post
-    author: Madi Thomas
-    featured-image: 
-    featured-image-alt: 
-defaults:
-- scope:
-    path: ''
     type: authors
   values:
     permalink: "/blog/authors/:title/"
     layout: author
-    twitter:
-    picture:
+    twitter: 
+    picture: 
 email: hello@getdigitallywell.com
 description: Stay on the cutting edge of how technology is shaping our lives and learn
   to stay focused in an increasingly distracted world.
