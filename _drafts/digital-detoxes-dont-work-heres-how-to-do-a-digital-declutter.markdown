@@ -5,6 +5,9 @@ categories:
 - digital health
 tags:
 - digital detox
+- cal newport
+- digital minimalism
+- digital declutter
 featured-image: "/uploads/1111.jpg"
 ---
 
