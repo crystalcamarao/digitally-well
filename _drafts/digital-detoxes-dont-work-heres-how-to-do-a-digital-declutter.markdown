@@ -1,6 +1,6 @@
 ---
 title: Digital Detoxes Don't Work. Here's How to do a Digital Declutter.
-date: 2020-04-27 08:54:00 -06:00
+date: 2020-05-05 08:54:00 -06:00
 tags:
 - Digital Detoxes Don't Work. Here's How to do a Digital Declutter.
 Field name: 
