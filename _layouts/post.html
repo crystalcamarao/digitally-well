@@ -34,6 +34,13 @@ comments: true
     {{ content }}
   </div>
 
+    <div>
+    {% assign author = site.authors | where: 'title', page.author | first %}
+{% if author %}
+  <a href="{{ author.url }}">{{ author.title }}</a>
+{% endif %}
+    </div>
+    
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}
   {%- endif -%}
