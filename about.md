@@ -3,11 +3,14 @@ title: About
 permalink: "/about/"
 layout: page
 ---
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 <<<<<<< HEAD
 
 <img src="/assets/img/laying.png" height="400px">
+=======
+>>>>>>> parent of 0239e14... Add doodle to About page
 =======
 >>>>>>> parent of 0239e14... Add doodle to About page
 =======
