@@ -26,3 +26,11 @@ google_analytics: UA-140161188-4
 show_excerpts: true
 disqus:
   shortname: digitally-well
+defaults:
+- scope:
+    path: ''
+    type: authors
+  values:
+    permalink: "/blog/authors/:title/"
+    layout: author
+    twitter:
