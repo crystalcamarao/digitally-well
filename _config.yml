@@ -11,6 +11,14 @@ collections:
   uploads:
     title: Uploads
     output: true
+defaults:
+- scope:
+    path: ''
+    type: authors
+  values:
+    permalink: "/blog/authors/:title/"
+    layout: author
+    twitter: 
 email: hello@getdigitallywell.com
 description: Stay on the cutting edge of how technology is shaping our lives and learn
   to stay focused in an increasingly distracted world.
@@ -29,11 +37,3 @@ google_analytics: UA-140161188-4
 show_excerpts: true
 disqus:
   shortname: digitally-well
-defaults:
-- scope:
-    path: ''
-    type: authors
-  values:
-    permalink: "/blog/authors/:title/"
-    layout: author
-    twitter:
