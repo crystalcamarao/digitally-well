@@ -12,4 +12,5 @@ Technology is a tool. Unfortunately, we don’t always utilize it properly. With
 <div class="about-container">
 {% for author in site.authors %}
 <div class="main-home main-home-left"><h3> <a href="{{ author.url }}">{{ author.title }}</a></h3</div>
-{% endfor %}</div>
+{% endfor %}
+</div>
