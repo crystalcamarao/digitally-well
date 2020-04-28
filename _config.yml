@@ -37,3 +37,13 @@ defaults:
     permalink: "/blog/authors/:title/"
     layout: author
     twitter:
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    permalink: "/blog/:title/"
+    layout: post
+    author: Madi Thomas
+    featured-image:
+    featured-image-alt:
