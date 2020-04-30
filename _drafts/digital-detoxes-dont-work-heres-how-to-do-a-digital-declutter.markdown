@@ -8,12 +8,10 @@ tags:
 - cal newport
 - digital minimalism
 - digital declutter
-featured-image: "/uploads/pexels-photo-1036808.jpeg"
 featured-image-alt: a laptop and a cell phone
 layout: post
 ---
 
-![pexels-photo-1036808 (1).jpg](/uploads/pexels-photo-1036808%20(1).jpg)
 Be honest. How much time do you spend mindlessly scrolling? Zoning out watching Youtube? Lurking social media? We all know by now that none of this is good for mental health. Studies on smartphone addiction have shown that increased time on social media [can lead to envy and FOMO.](https://www.sciencedirect.com/science/article/pii/S2352250X15002535) Not to mention the fact that you could be doing so much with the time you’re spending mindlessly surfing!
 
 “But...coronavirus! We’re social distancing! If I can’t use technology during the quarantine I’m going to be sad and bored.” Actually, you’re right. We need to be using our devices to connect with others and for many of us, go to work or school. I’m not asking you to become a luddite, because that would be social and career suicide.
