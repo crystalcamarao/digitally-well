@@ -3,6 +3,7 @@ title: About
 permalink: "/about/"
 layout: page
 ---
+
 <div class="wrapper-inside post-wrapper">
 <div>
 <img src="/assets/img/laying.png" height="400px">
