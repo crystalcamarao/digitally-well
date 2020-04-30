@@ -63,11 +63,15 @@ body
 .hero-container
 {
     display: flex;
-    background: #333333;
+    background: #00203F;
+}
+.team-container
+{
+    display: flex;
 }
 .about-container
 {
-    display: flex;
+    max-width: 50%;
 }
 .main-home
 {
@@ -98,7 +102,7 @@ body
 {
     border: none;
     color: white;
-    background: green;
+    background: #2D3CE1;
     padding: $spacing-unit/2 $spacing-unit $spacing-unit/2 $spacing-unit;
     border-radius: 50px;
     text-transform: uppercase;
@@ -114,14 +118,14 @@ body
 .harmony-container
 {
     display: flex;
-        background: #EAEAEA;
+        background: #ADEFD1 ;
     padding-bottom: 0;
 }
 .substack-form
 {
     align: center;
     text-align: center;
-    background: #EAEAEA;
+    background: #ADEFD1;
     padding-bottom: $spacing-unit;
 }
 .blog-container
@@ -192,6 +196,7 @@ padding-right: $spacing-unit;
 {
     max-width: 40%;
 }
+
 @media screen and (max-width: 800px) {
     h1 {
         font-size: 2.25em;
