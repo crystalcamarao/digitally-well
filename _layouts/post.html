@@ -33,6 +33,9 @@ comments: true
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
   </div>
+    <div>
+    {% include share-buttons.html %}
+    </div>
     
     {% assign author = site.authors | where: 'title', page.author | first %}
 {% if author %}
