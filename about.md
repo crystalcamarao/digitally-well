@@ -13,7 +13,7 @@ Technology is a tool. Unfortunately, we don’t always utilize it properly. With
 </div>
 <div id="team"><h2>TEAM</h2>
 <div class="team-container">
-  {% for author in site.authors %}
+  {% for author in site.authors reversed %}
     <div class="blog-column team">
     {%- include author-details.html -%}
     </div>
