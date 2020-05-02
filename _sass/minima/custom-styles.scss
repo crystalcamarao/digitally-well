@@ -63,7 +63,7 @@ body
 .hero-container
 {
     display: flex;
-    background: #00203F;
+    background: #333;
 }
 .team-container
 {
@@ -101,8 +101,8 @@ body
 .primary
 {
     border: none;
-    color: white;
-    background: #2D3CE1;
+    color: #333333;
+    background-color: #00203F;
     padding: $spacing-unit/2 $spacing-unit $spacing-unit/2 $spacing-unit;
     border-radius: 50px;
     text-transform: uppercase;
@@ -118,14 +118,14 @@ body
 .harmony-container
 {
     display: flex;
-        background: #ADEFD1 ;
+        background: #EAEAEA;
     padding-bottom: 0;
 }
 .substack-form
 {
     align: center;
     text-align: center;
-    background: #ADEFD1;
+    background: #EAEAEA;
     padding-bottom: $spacing-unit;
 }
 .blog-container
@@ -157,7 +157,7 @@ padding-right: $spacing-unit;
 }
 .author-picture
 {
-    width: 200px;
+    width: 250px;
     border-radius: 50%;
 }
 .author-post
@@ -185,16 +185,20 @@ padding-right: $spacing-unit;
 }
 .author-page-posts-image
 {
-    flex: 20%;
+    flex: 30%;
 }
 .author-page-posts-details
 {
-    flex: 80%;
+    flex: 70%;
     padding: $spacing-unit/2;
 }
-.post-wrapper
+.post-wrapper, .author-wrapper
 {
     max-width: 40%;
+}
+.author-link
+{
+    padding: $spacing-unit;
 }
 @media screen and (max-width: 800px) {
     h1 {

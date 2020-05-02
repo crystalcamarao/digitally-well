@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div class="wrapper-inside">
+<div class="wrapper-inside author-wrapper">
 <h1 class="name">{{ page.title }}</h1>
 <div class="author-page-posts">
 {% assign posts = site.posts | where: 'author', page.title %}
@@ -29,7 +29,7 @@ layout: default
     <div class="author-post">
 <div class="author-post-child">
     <img src="{{ page.picture }}" class="author-picture">
-<a href="{{ page.link }}" target="_blank">{{ page.link }}</a>
+<a class="author-link" href="{{ page.link }}" target="_blank"><i class="material-icons">link</i></a>
 </div>
     <div class="author-post-child">
     <h3><a href="{{ page.url }}">{{ page.title }}</a></h3>
