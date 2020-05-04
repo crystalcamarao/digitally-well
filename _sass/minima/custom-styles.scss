@@ -208,9 +208,13 @@ padding-right: $spacing-unit;
     {
         font-size: 1.5em
     }
-  .hero-container, .harmony-container {
+  .hero-container, .harmony-container, .author-post, .team-container, .team {
     flex-direction: column;
   }
+    .post-wrapper, .author-wrapper
+{
+    max-width: 90%;
+}
     .logo
     {
         width: 150px;
