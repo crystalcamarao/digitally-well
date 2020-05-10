@@ -2,6 +2,7 @@
 title: Crystal Camarao
 picture: "/uploads/crystalcamarao.jpg"
 link: https://crystal.ph
+email: hello@crystal.ph
 layout: author
 ---
 

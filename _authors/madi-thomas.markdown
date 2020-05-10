@@ -2,6 +2,7 @@
 title: Madi Thomas
 link: https://twitter.com/madi_thehuman
 picture: "/uploads/13626400_1655690464754125_5653857347141099337_n%20(1).jpg"
+email: contactmadithomas@gmail.com
 layout: author
 ---
 
