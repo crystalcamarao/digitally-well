@@ -180,16 +180,17 @@ padding-right: $spacing-unit;
 .author-page-posts
 {
      display: flex;
-       justify-content: center;
-   align-items: center;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
 }
 .author-page-posts-image
 {
-    flex: 30%;
+    flex: 1;
 }
 .author-page-posts-details
 {
-    flex: 70%;
+    flex: 1;
     padding: $spacing-unit/2;
 }
 .post-wrapper, .author-wrapper
