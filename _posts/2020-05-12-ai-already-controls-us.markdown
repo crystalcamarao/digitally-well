@@ -7,6 +7,8 @@ tags:
 - AI
 - bots
 - future
+featured-image: "/uploads/technoid-2877987_1920.jpg"
+featured-image-alt: cube with circuits
 ---
 
 “What kind of music do you like?” 
