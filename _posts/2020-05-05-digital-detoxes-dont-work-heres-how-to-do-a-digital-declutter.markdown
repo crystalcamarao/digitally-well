@@ -8,6 +8,7 @@ tags:
 - cal newport
 - digital minimalism
 - digital declutter
+featured-image: "/uploads/pexels-photo-1036808.jpeg"
 featured-image-alt: a laptop and a cell phone
 Field name: 
 layout: post
