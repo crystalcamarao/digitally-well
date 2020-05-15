@@ -9,6 +9,8 @@ tags:
 - future
 featured-image: "/uploads/technoid-2877987_1920.jpg"
 featured-image-alt: cube with circuits
+description: Why AI doesn't have to be smarter than us to control our behavior.
+Field name: 
 ---
 
 “What kind of music do you like?” 
