@@ -64,6 +64,7 @@ body
 {
     display: flex;
     background: #333;
+    height: 85vh;
 }
 .team-container
 {
@@ -143,6 +144,7 @@ body
 padding-right: $spacing-unit;
      padding-left: $spacing-unit;
   flex: 1;
+    height: 100%;
 }
 .site-footer {
     padding-right: $spacing-unit;
