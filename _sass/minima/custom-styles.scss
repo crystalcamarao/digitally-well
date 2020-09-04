@@ -139,9 +139,6 @@ body
     flex-direction: row;
    justify-content: center;
    align-items: center;
-@media screen and (max-width: 320px) {
-    flex-direction: column;
-}
 }
 .blog-column {
 padding-right: $spacing-unit;
@@ -214,7 +211,7 @@ padding-right: $spacing-unit;
     {
         font-size: 1.5em
     }
-  .hero-container, .harmony-container, .author-post, .team-container, .team {
+  .blog-home, .hero-container, .harmony-container, .author-post, .team-container, .team {
     flex-direction: column;
   }
     .post-wrapper, .author-wrapper
