@@ -21,7 +21,7 @@ h3
 }
 body
 {
-    font-size: 18px;
+    font-size: 16px;
     line-height: 1.4;
 }
 .site-header {
@@ -53,19 +53,18 @@ body
      max-width: calc(#{$content-width} - (#{$spacing-unit}));
   margin-right: auto;
   margin-left: auto;
-padding: calc(#{$spacing-unit}*3);
+padding: $spacing-unit;
   @extend %clearfix;
 
   @media screen and (min-width: $on-large) {
-    max-width: calc(#{$content-width} - (#{$spacing-unit} * 2));
-    padding: $spacing-unit;
+    max-width: calc(#{$content-width} - (#{$spacing-unit} * 4));
+    padding: $spacing-unit*4;
   }
 }
 .hero-container
 {
     display: flex;
     background: #333;
-    height: 85vh;
 }
 .team-container
 {
@@ -128,7 +127,7 @@ padding: calc(#{$spacing-unit}*3);
     align: center;
     text-align: center;
     background: #EAEAEA;
-    padding-bottom: $spacing-unit;
+    padding-bottom: $spacing-unit*4;
 }
 .blog-container
 {
@@ -160,8 +159,8 @@ padding-right: $spacing-unit;
 }
 .author-picture
 {
-    height: 150px;
-    width: auto;
+    width: 250px;
+    height: auto;
     border-radius: 50%;
 }
 .author-post
@@ -184,8 +183,6 @@ padding-right: $spacing-unit;
 .author-page-posts
 {
      display: flex;
-    justify-content: center;
-    align-items: center;
     flex-direction: column;
 }
 .author-page-posts-image
